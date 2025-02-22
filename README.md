@@ -9,7 +9,7 @@ Techstacks Used:
 
 1. Clone this repository.
 ```bash
- git clone https://github.com/kumar-vivek-iitian/backend.git
+ git clone https://github.com/kumar-vivek-iitian/task-tracker.git
  ```
 2. CD into the task-tracker project directory.
 ```bash
