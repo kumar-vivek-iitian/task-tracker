@@ -1,0 +1,19 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "CLI app to track tasks and manage todo list.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kumar-vivek-iitian/task-tracker.git"
+  },
+  "license": "ISC",
+  "author": "Vivek Kumar",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
